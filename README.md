@@ -18,7 +18,7 @@
 
 This is a guide to **pranayama**, [asana](https://oneflowyoga.com/blog/asana-yoga), and ayurveda. Additional [Documentation](https://en.wikipedia.org/wiki/Ayurveda) and [examples](https://en.wikipedia.org/wiki/Pranayama) are available for reference.
 <param ve-image 
-       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/9fa6164b2e829363f38bec6f30dbd068.jpeg">
+       manifest="https://images.theconversation.com/files/460884/original/file-20220502-24-bg7hxv.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop">
 
 # Basic usage
 
@@ -33,9 +33,8 @@ Warrior II is one of the most famous yoga poses.[^1]
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Yoga originated in ancient India.
+<param ve-map center="16535579" zoom="1" prefer-geojson>
 
 ## Multiple viewers
 
