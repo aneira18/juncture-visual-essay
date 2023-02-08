@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Warrior II" 
        description="a yogasana" 
        license="public domain" 
-       url="https://www.yogajournal.com/poses/warrior-ii-pose/">
+       url="https://www.yogajournal.com/wp-content/uploads/2021/12/Warrior-2-Pose_Andrew-Clark_2400x1350.jpeg?crop=16:9&width=1500">
 
 ## Map
 
