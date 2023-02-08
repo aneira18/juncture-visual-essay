@@ -36,10 +36,9 @@ Warrior II is one of the most famous yoga poses.[^1]
 Yoga originated in ancient India.
 <param ve-map center="16535579" zoom="1" prefer-geojson>
 
-## Multiple viewers
+## Ayurvedic Body Types
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+There are three Ayurvedic body types: vata, pitta, and kapha.
 <param ve-image 
        manifest="https://www.yogajournal.com/wp-content/uploads/2021/07/Squat-Garland-Pose_Andrew-Clark.jpg?crop=16:9&width=1500">
 <param ve-map center="Q44367" zoom="7">
