@@ -42,7 +42,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://www.yogajournal.com/wp-content/uploads/2021/07/Squat-Garland-Pose_Andrew-Clark.jpg?crop=16:9&width=1500">
-<param ve-map center="Q36600" zoom="11">
+<param ve-map center="Q44367" zoom="7">
 
 # References
 
