@@ -18,7 +18,7 @@
 
 This is a guide to **pranayama**, [asana](https://oneflowyoga.com/blog/asana-yoga), and ayurveda. Additional [Documentation](https://en.wikipedia.org/wiki/Ayurveda) and [examples](https://en.wikipedia.org/wiki/Pranayama) are available for reference.
 <param ve-image 
-       manifest="9fa6164b2e829363f38bec6f30dbd068.jpeg">
+       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/9fa6164b2e829363f38bec6f30dbd068.jpeg">
 
 # Basic usage
 
