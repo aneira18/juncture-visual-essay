@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="WE_ARE_ONE.JPG"></a>
 
 <param ve-config 
        title="Yoga"
