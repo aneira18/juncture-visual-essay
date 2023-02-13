@@ -95,7 +95,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q668" zoom="4" prefer-geojson>
+<param ve-map center="Q667" zoom="5" prefer-geojson>
 
 ## Multiple viewers
 
@@ -106,7 +106,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        description="artist's visualization" 
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
-<param ve-map center="Q668" zoom="4">
+<param ve-map center="Q667" zoom="5">
 
 # References
 
