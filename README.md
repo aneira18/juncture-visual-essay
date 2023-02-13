@@ -21,20 +21,35 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-graphic 
-       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0195.JPG">
 
 # ONENESS
+
+blah 
+<param ve-graphic 
+       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # THE MACHINE
 
 # ASANA
 
+blah 
+<param ve-graphic 
+       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0206.JPG">
+
 # PRANAYAMA
+
+blah 
 
 # MEDITATION
 
+blah 
+
 # AYURVEDA
 
+blah 
+<param ve-graphic 
+       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0213.JPG">
 
 ## Image
 
