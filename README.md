@@ -21,10 +21,10 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-graphic 
-       label="ONENESS" 
+       label="THE BUDDHA" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0195.JPG">
 
 # ONENESS
 
@@ -48,10 +48,10 @@ blah
 
 blah 
 <param ve-graphic 
-       label="ONENESS" 
+       label="THE POWER OF ASANA" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0206.JPG">
 
 # PRANAYAMA
 
@@ -75,10 +75,10 @@ blah
 
 blah 
 <param ve-graphic 
-       label="ONENESS" 
+       label="THE THREE DOSHAS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0213.JPG">
        
 ## Image
 
@@ -101,8 +101,11 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 <param ve-map center="Q36622" zoom="7">
 
 # References
