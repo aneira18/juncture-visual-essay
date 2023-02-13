@@ -106,7 +106,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        description="artist's visualization" 
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
-<param ve-map center="Q36622" zoom="7">
+<param ve-map center="Q36622" zoom="4">
 
 # References
 
