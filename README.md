@@ -9,18 +9,32 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q9350"> <!-- Yoga -->
+<param ve-entity eid="Q466797"> <!-- Asana -->
+<param ve-entity eid="Q839496"> <!-- Pranayama -->
+<param ve-entity eid="Q108458"> <!-- Meditation -->
+<param ve-entity eid="Q132325"> <!-- Ayurveda -->
 
-# Sample visual essay
+# YOGA 
+
+# PURPOSE
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
-# Basic usage
+# ONENESS
+
+# THE MACHINE
+
+# ASANA
+
+# PRANAYAMA
+
+# MEDITATION
+
+# AYURVEDA
+
 
 ## Image
 
