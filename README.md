@@ -78,7 +78,7 @@ blah
        label="THE THREE DOSHAS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0213.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurveda.JPG">
        
 ## Image
 
