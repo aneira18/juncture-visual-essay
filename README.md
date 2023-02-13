@@ -21,36 +21,65 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-graphic 
-       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0195.JPG">
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # ONENESS
 
 blah 
 <param ve-graphic 
-       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # THE MACHINE
+
+blah 
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # ASANA
 
 blah 
 <param ve-graphic 
-       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0206.JPG">
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # PRANAYAMA
 
 blah 
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # MEDITATION
 
-blah 
+blah
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # AYURVEDA
 
 blah 
 <param ve-graphic 
-       manifest="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0213.JPG">
-
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
