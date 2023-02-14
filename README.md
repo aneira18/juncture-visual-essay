@@ -52,7 +52,7 @@ The body is your temple and your vehicle in which to navigate this universe.  It
 
 # ASANA
 
-blah 
+Asana is the flow of yoga postures from one to the other and can refer to each posture indiviudally.  Some examples of asanas would be downward dog (svanasana), child's pose (balasana), lotus pose (padmasana), or the corpse pose (shavasana).  These poses are used to manipulate energy throughout the body and may bring about change.  It is the divine alignment of the body.  For example, when you sit up straight, you instantly feel more confident and awake.  Asana may help the flow of prana throughout the body which may remove energetic blockages.  
 <param ve-graphic 
        label="THE POWER OF ASANA" 
        description="artist's visualization" 
@@ -61,7 +61,8 @@ blah
 
 # PRANAYAMA
 
-blah 
+Pranyama is breathwork which manipulates the flow of prana throughout the body.  During yoga, one may use different breathing styles.  One of these is ujayyi, or victory breath.  During the flow of asanas, a yoga practitioner inhales on the assumation of the pose and exhales on the surrender into the pose. 
+
 <param ve-graphic 
        label="ONENESS" 
        description="artist's visualization" 
