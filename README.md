@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Living Purely: An Introductory Guide to Yogic Being"
+       title="Living Purely: An Introductory Guide to Yogic Being according to Ancient Hindu Texts"
        author="Ariana Neira"
        banner="https://iiif.juncture-digital.org/banner/?url=https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG" 
        layout="vertical">
@@ -17,9 +17,15 @@
 
 # YOGA 
 
+## Map
+
+Hinduism and yoga originated in ancient India. 
+<param ve-map center="Q668" zoom="5" prefer-geojson>
+
 # PURPOSE
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+The purpose of yoga is not for inner peace, physical exercise, or flexiblity.  It is to elevate your consciousness in order to become one with the divine, or Higher Self, and to break the cycle of Samsara, or cyclic existence.  The history of humanity can be broken down into four yugas, or stages of human existence, which repeat cyclically.  In the first yuga, or Satya yuga, humanity is full of virture, love, purity, and devotion.  In the second yuga, or Treta yuga, there is a decline in these values and in the condition of the world.  In the third yuga, or Dvapara yuga, there is another decline.  Lastly, in the fourth yuga or Kali yuga, there is another decline.  Humanity is in its lowest state, living in the ego rather than living in the soul.  There is wide-scale suffering and confusion, with people chasing temporary pleasures rather than everlasting bliss.  This is the yuga we are living in currently.
+However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is the cycle of rebirth.  When one dies, depending on the karma accumulated throughout their lifetime, they may elevate or be reborn into a new incarnation.  By elevate, I mean that they may live on in the higher spiritual realms where they will continue to learn about the universe and grow until they attain oneness with the divine Creator.  Through the yogic path, one may break free of the cycle of Samsara.  
 <param ve-graphic 
        label="THE BUDDHA" 
        description="artist's visualization" 
@@ -37,7 +43,7 @@ blah
 
 # THE MACHINE
 
-The body is your temple and your vehicle in which to navigate this universe.  It consists of five koshas, or sheaths, which can be imagined as the physical body, energetic body, lower mind body, intelligence body, and bliss body.  There are seven main chakras, or energy centers, and 72,000 nadis, or lesser energy centers.  The body is fueled by prana, or breath, which involves life-giving energy.  Prana enters the left and right nostrils and travels around the spine in two currents, the ida and pingala.  They twirl around the center current, the sushumna, which runs down the spine.  The body is also ruled by the sun and moon, or the shiva and shakti, or the masculine and feminine energies.  There is an up current in the body known as apana and a down current in the body called udana.  The body can also be thought of as a karmic machine.
+The body is your temple and your vehicle in which to navigate this universe.  It consists of five koshas, or sheaths, which can be imagined as the physical body, energetic body, lower mind body, intelligence body, and bliss body.  Within the heart lies the Atman, or soul, which is the subtlest of all and pervades everything and is synonymous with the divine Creator.  There are seven main chakras, or energy centers, and 72,000 nadis, or lesser energy centers.  The body is fueled by prana, or breath, which involves life-giving energy.  Prana enters the left and right nostrils and travels around the spine in two currents, the ida and pingala.  They twirl around the center current, the sushumna, which runs down the spine.  The body is also ruled by the sun and moon, or the shiva and shakti, or the masculine and feminine energies.  There is an up current in the body known as apana and a down current in the body called udana.  The body can also be thought of as a karmic machine.
 <param ve-graphic 
        label="THE SUBTLE BODY" 
        description="artist's visualization" 
@@ -81,21 +87,6 @@ Ayurveda also consists of a specific daily routine.  Ayurvedic practitioners sta
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurveda.JPG">
 
-## Map
-
-Hinduism and yoga originated in ancient India. 
-<param ve-map center="Q668" zoom="5" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-graphic 
-       label="ONENESS" 
-       description="artist's visualization" 
-       license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
-<param ve-map center="Q668" zoom="5" prefer-geojson>
 
 # References
 
