@@ -39,10 +39,10 @@ blah
 
 blah 
 <param ve-graphic 
-       label="ONENESS" 
+       label="THE SUBTLE BODY" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/THESUBTLEBODY.jpg">
 
 # ASANA
 
