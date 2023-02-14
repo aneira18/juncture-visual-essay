@@ -34,7 +34,7 @@ However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is th
 
 # ONENESS
 
-blah 
+Within everyone is the eternal soul of the ultimate God, or Higher Consciousness.  This is called the Atman, which is one with the larger Brahman.  Through yoga and meditation, one may tap into this to attain turiya, or a complete merging with the Divine Consciousness during which one loses all sense of ego.  The specific personality and sense of self in each person is called the Jivatman.  Turiya involves loss of the sense of Jivatman.  You are Brahman, and Brahman is you.  You are everything and everything is you.  There is no differentiation between you and the universe, because they are synonymous.  Your soul moves with the waves of the ocean, the beams of moonlight, and the shifting sands of the desert.  Realization of this leads to infinite bliss.  However, bliss is not an emotion, but a state of being.  You are not blissful about something, but rather existing in bliss.  Through yoga and meditation, one may reach this state of bliss while still confined by the body. 
 <param ve-graphic 
        label="ONENESS" 
        description="artist's visualization" 
