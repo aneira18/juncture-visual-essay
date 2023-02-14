@@ -37,7 +37,7 @@ blah
 
 # THE MACHINE
 
-blah 
+The body is your temple and your vehicle in which to navigate this universe.  It consists of five koshas, or sheaths, which can be imagined as the physical body, energetic body, lower mind body, intelligence body, and bliss body.  There are seven main chakras, or energy centers, and 72,000 nadis, or lesser energy centers.  The body is fueled by prana, or breath, which involves life-giving energy.  Prana enters the left and right nostrils and travels around the spine in two currents, the ida and pingala.  They twirl around the center current, the sushumna, which runs down the spine.  The body is also ruled by the sun and moon, or the shiva and shakti, or the masculine and feminine energies.  There is an up current in the body known as apana and a down current in the body called udana.  The body can also be thought of as a karmic machine.
 <param ve-graphic 
        label="THE SUBTLE BODY" 
        description="artist's visualization" 
