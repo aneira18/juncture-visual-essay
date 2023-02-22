@@ -109,7 +109,7 @@ Ayurveda also consists of a specific daily routine.  Ayurvedic practitioners sta
        label="THE THREE DOSHAS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurveda.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurrveda.jpg">
 
 # References
 The Upanishads by Shyam N. Shukla
