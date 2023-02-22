@@ -81,7 +81,12 @@ There is a vast multitude of purposes for meditation.  Meditation allows one to 
 
 # AYURVEDA
 Ayurveda is an ancient Indian medicine and lifestyle doctrine.  According to ayurveda, there is three doshas, or body types ruled by the elements.  
-
+<param ve-graphic 
+       label="THE THREE DOSHAS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurrveda.jpg">
+       
 The first being vata which is ruled by wind and is characterized by a petite frame and resting weight.  
 <param ve-graphic 
        label="THE THREE DOSHAS" 
