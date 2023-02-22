@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Living Purely: An Introductory Guide to Yogic Being according to Ancient Hindu Texts"
+       title="Living Purely: An Introductory Guide to Yogic Being"
        author="Ariana Neira"
        banner="https://iiif.juncture-digital.org/banner/?url=https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG" 
        layout="vertical">
@@ -22,18 +22,22 @@
 Hinduism and yoga originated in ancient India. 
 <param ve-map center="Q668" zoom="5" prefer-geojson>
 
-# PURPOSE
+# THE UPANISHADS
+"As a spider emits and withdraws a web, as plants grow from the soil, and as hair grows over the human body, so does the universe spring out from the eternal Brahman." [1.1.7]
 
+# PURPOSE
 The purpose of yoga is not for inner peace, physical exercise, or flexiblity.  It is to elevate your consciousness in order to become one with the divine, or Higher Self, and to break the cycle of Samsara, or cyclic existence.  The history of humanity can be broken down into four yugas, or stages of human existence, which repeat cyclically.  In the first yuga, or Satya yuga, humanity is full of virture, love, purity, and devotion.  In the second yuga, or Treta yuga, there is a decline in these values and in the condition of the world.  In the third yuga, or Dvapara yuga, there is another decline.  Lastly, in the fourth yuga or Kali yuga, there is another decline.  Humanity is in its lowest state, living in the ego rather than living in the soul.  There is wide-scale suffering and confusion, with people chasing temporary pleasures rather than everlasting bliss.  This is the yuga we are living in currently.
-However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is the cycle of rebirth.  When one dies, depending on the karma accumulated throughout their lifetime, they may elevate or be reborn into a new incarnation.  By elevate, I mean that they may live on in the higher spiritual realms where they will continue to learn about the universe and grow until they attain oneness with the divine Creator.  Through the yogic path, one may break free of the cycle of Samsara.  
+However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is the cycle of rebirth.  When one dies, depending on the karma accumulated throughout their lifetime, they may elevate or be reborn into a new incarnation.  By elevate, I mean that they may live on in the higher spiritual realms where they will continue to learn about the universe and grow until they attain oneness with the divine Creator.  Through the yogic path, one may break free of the cycle of Samsara and attain the higher spiritual planes of existence.  
 <param ve-graphic 
        label="THE BUDDHA" 
        description="artist's visualization" 
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0195.JPG">
+       
+# THE UPANISHADS
+"Brahman is the ultimate Truth.  Just as from a blazing fire thousands of sparks are formed, similarly, from the imperishable Brahman manifold creatures are born and go back to It again." [2.1.1]
 
 # ONENESS
-
 Within everyone is the eternal soul of the ultimate God, or Higher Consciousness.  This is called the Atman, which is one with the larger Brahman.  Through yoga and meditation, one may tap into this to attain turiya, or a complete merging with the Divine Consciousness during which one loses all sense of ego.  The specific personality and sense of self in each person is called the Jivatman.  Turiya involves loss of the sense of Jivatman.  You are Brahman, and Brahman is you.  You are everything and everything is you.  There is no differentiation between you and the universe, because they are synonymous.  Your soul moves with the waves of the ocean, the beams of moonlight, and the shifting sands of the desert.  Realization of this leads to infinite bliss.  However, bliss is not an emotion, but a state of being.  You are not blissful about something, but rather existing in bliss.  Through yoga and meditation, one may reach this state of bliss while still confined by the body. 
 <param ve-graphic 
        label="ONENESS" 
@@ -42,7 +46,6 @@ Within everyone is the eternal soul of the ultimate God, or Higher Consciousness
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # THE MACHINE
-
 The body is your temple and your vehicle in which to navigate this universe.  It consists of five koshas, or sheaths, which can be imagined as the physical body, energetic body, lower mind body, intelligence body, and bliss body.  Within the heart lies the Atman, or soul, which is the subtlest of all and pervades everything and is synonymous with the divine Creator.  There are seven main chakras, or energy centers, and 72,000 nadis, or lesser energy centers.  The body is fueled by prana, or breath, which involves life-giving energy.  Prana enters the left and right nostrils and travels around the spine in two currents, the ida and pingala.  They twirl around the center current, the sushumna, which runs down the spine.  The body is also ruled by the sun and moon, or the shiva and shakti, or the masculine and feminine energies.  There is an up current in the body known as apana and a down current in the body called udana.  The body can also be thought of as a karmic machine.
 <param ve-graphic 
        label="THE SUBTLE BODY" 
@@ -51,7 +54,6 @@ The body is your temple and your vehicle in which to navigate this universe.  It
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/THESUBTLEBODY.jpg">
 
 # ASANA
-
 Asana is the flow of yoga postures from one to the other and can refer to each posture indiviudally.  Some examples of asanas would be downward dog (svanasana), child's pose (balasana), lotus pose (padmasana), or the corpse pose (shavasana).  These poses are used to manipulate energy throughout the body and may bring about change.  It is the divine alignment of the body.  For example, when you sit up straight, you instantly feel more confident and awake.  Asana may help the flow of prana throughout the body which may remove energetic blockages.  
 <param ve-graphic 
        label="THE POWER OF ASANA" 
@@ -86,7 +88,10 @@ Ayurveda also consists of a specific daily routine.  Ayurvedic practitioners sta
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurveda.JPG">
 
-
 # References
+The Upanishads by Shyam N. Shukla
+Tantra: The Path of Ecstasy by Georg Feuerstein
+The Yoga of Light: Hatha Yoga Padipika, India's Classical Handbook by Hans-Ulrich Rieker
+https://officeyoga.com/the-eight-limbs-of-yoga-dharana-dhyana-samadhi/
+https://theyogainstitute.org/ujjayi-pranayama/
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
