@@ -60,8 +60,7 @@ Asana is the flow of yoga postures from one to the other and can refer to each p
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/IMG_0206.JPG">
 
 # PRANAYAMA
-
-Pranyama is breathwork which manipulates the flow of prana throughout the body.  During yoga, one may use different breathing styles.  One of these is ujayyi, or victory breath.  During the flow of asanas, a yoga practitioner inhales on the assumation of the pose and exhales on the surrender into the pose. 
+Pranyama is breathwork which manipulates the flow of prana throughout the body.  Prana can be thought of as a subtle, life-giving energy that animates our bodies.  It cannot be sensed by sight, smell, hearing, taste, or touch, but can be sensed with the mind deep in meditation.  During yoga, one may use different types of pranayama.  One of these is ujayyi which is also known as ocean breath or victory breath.  It involves clenching the throat during inhalation to produce a ocean wave sound until the chest is full and then entails breath retention for a period of seconds before a long exhale.  During the flow of asanas, a yoga practitioner inhales on the assumation of the pose and exhales on the surrender into the pose. 
 
 <param ve-graphic 
        label="ONENESS" 
@@ -70,10 +69,7 @@ Pranyama is breathwork which manipulates the flow of prana throughout the body. 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # MEDITATION
-
-There is a vast multitude of purposes for meditation.  Meditation allows one to quiet the swirling thoughts, limitations, and constructs of the mind in order to tap into the Atman, or Brahman, or Divine Consciousness of the universe for self-actualization and enlightenment.  Meditation has many mental health and physical health benefits, but its primary purpose is for alignment with the divine and transcending the ego.  By transcending the ego and connecting with the divine, one may achieve the Diving Being Bliss.  Not happiness, or being happy about something, more of an infinite contentment and ecstasy unknown to unenlightened individuals.  This enlightenment can be considered a liberation from the human condition, allowing one to find and live in Bliss through any facet of life or hardship.   
-
-There is also a vast multitude of meditation methods.  Some of these include dharana, dhyana, and samadhi.  Dharana, dhyana, and samadhi are consecutive.  Dharana involves directing the focus to an object, dhyana involves fixed, sustained focus and concentration on the object, and samadhi involves complete mental absoprtion into the object where there is no differentiation between mind and object.  
+There is a vast multitude of purposes for meditation.  Meditation allows one to quiet the swirling thoughts, limitations, and constructs of the mind in order to tap into the Atman, or Brahman, or Divine Consciousness of the universe for self-actualization and enlightenment.  Meditation has many mental health and physical health benefits, but its primary purpose is for alignment with the divine and transcending the ego.  By transcending the ego and connecting with the divine, one may achieve the Diving Being Bliss.  Not happiness, or being happy about something, more of an infinite contentment and ecstasy unknown to unenlightened individuals.  This enlightenment can be considered a liberation from the human condition, allowing one to find and live in Bliss through any facet of life or hardship.  There is also a vast multitude of meditation methods.  Some of these include dharana, dhyana, and samadhi.  Dharana, dhyana, and samadhi are consecutive.  Dharana involves directing the focus to an object, dhyana involves fixed, sustained focus and concentration on the object, and samadhi involves complete mental absoprtion into the object where there is no differentiation between mind and object.  
 
 <param ve-graphic 
        label="ONENESS" 
@@ -82,7 +78,6 @@ There is also a vast multitude of meditation methods.  Some of these include dha
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # AYURVEDA
-
 Ayurveda is an ancient Indian medicine and lifestyle doctrine.  According to ayurveda, there is three doshas, or body types ruled by the elements.  The first being vata which is ruled by wind and is characterized by a petite frame and resting weight.  The second is pitta which is ruled by fire and is characterized by a medium frame and resting weight.  The third is kapha which is ruled by water and is characterized by a larger frame and resting weight.  Specific diets are established for each dosha which are divided into tastes.  For example, one reccomendation for pitta is to avoid spicy foods because spice can aggravate the metabolic fire of the pitta and create an inbalance with vata and kapha.  Diet reccomendations are instilled to protect the balance between the elements.  
 Ayurveda also consists of a specific daily routine.  Ayurvedic practitioners start their day with usual dental hygiene, adding on the use of a tongue scraper to cleanse the mouth of toxins accumuulated during sleep.  Oil-pulling is a method used to cleanse the mouth as well which involves swishing the mouth with natural oils such as sesame oil or coconut oikl.  Abhyanga, or self-massage, is incorporated once a day which stimulates the lymphatic system to release toxins and cleanse the body.  Abhyanga consists of a specific massage method, beginning at the ends of extremities and working one's way to the center of the body using back-and-forth motions on limbs and circular motions on the joints.  Abhyanga involved the use of natural massage oils such as sesame oil or coconut oil.  An ayurvedic life also consists of following the path of yoga.  
 <param ve-graphic 
