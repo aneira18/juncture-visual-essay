@@ -3,7 +3,7 @@
 <param ve-config 
        title="Living Purely: An Introductory Guide to Yogic Being"
        author="Ariana Neira"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG" 
+       banner="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/banner.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
