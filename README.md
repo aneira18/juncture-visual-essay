@@ -24,6 +24,11 @@ Hinduism and yoga originated in ancient India.
 
 # THE UPANISHADS
 "As a spider emits and withdraws a web, as plants grow from the soil, and as hair grows over the human body, so does the universe spring out from the eternal Brahman." [1.1.7]
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/upanishads.JPG">
 
 # PURPOSE
 The purpose of yoga is not for inner peace, physical exercise, or flexiblity.  It is to elevate your consciousness in order to become one with the divine, or Higher Self, and to break the cycle of Samsara, or cyclic existence.  The history of humanity can be broken down into four yugas, or stages of human existence, which repeat cyclically.  In the first yuga, or Satya yuga, humanity is full of virture, love, purity, and devotion.  In the second yuga, or Treta yuga, there is a decline in these values and in the condition of the world.  In the third yuga, or Dvapara yuga, there is another decline.  Lastly, in the fourth yuga or Kali yuga, there is another decline.  Humanity is in its lowest state, living in the ego rather than living in the soul.  There is wide-scale suffering and confusion, with people chasing temporary pleasures rather than everlasting bliss.  This is the yuga we are living in currently.
@@ -36,7 +41,12 @@ However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is th
        
 # THE UPANISHADS
 "Brahman is the ultimate Truth.  Just as from a blazing fire thousands of sparks are formed, similarly, from the imperishable Brahman manifold creatures are born and go back to It again." [2.1.1]
-
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/upanishads.JPG">
+       
 # ONENESS
 Within everyone is the eternal soul of the ultimate God, or Higher Consciousness.  This is called the Atman, which is one with the larger Brahman.  Through yoga and meditation, one may tap into this to attain turiya, or a complete merging with the Divine Consciousness during which one loses all sense of ego.  The specific personality and sense of self in each person is called the Jivatman.  Turiya involves loss of the sense of Jivatman.  You are Brahman, and Brahman is you.  You are everything and everything is you.  There is no differentiation between you and the universe, because they are synonymous.  Your soul moves with the waves of the ocean, the beams of moonlight, and the shifting sands of the desert.  Realization of this leads to infinite bliss.  However, bliss is not an emotion, but a state of being.  You are not blissful about something, but rather existing in bliss.  Through yoga and meditation, one may reach this state of bliss while still confined by the body. 
 <param ve-graphic 
@@ -63,7 +73,6 @@ Asana is the flow of yoga postures from one to the other and can refer to each p
 
 # PRANAYAMA
 Pranyama is breathwork which manipulates the flow of prana throughout the body.  Prana can be thought of as a subtle, life-giving energy that animates our bodies.  It cannot be sensed by sight, smell, hearing, taste, or touch, but can be sensed with the mind deep in meditation.  During yoga, one may use different types of pranayama.  One of these is ujayyi which is also known as ocean breath or victory breath.  It involves clenching the throat during inhalation to produce a ocean wave sound until the chest is full and then entails breath retention for a period of seconds before a long exhale.  During the flow of asanas, a yoga practitioner inhales on the assumation of the pose and exhales on the surrender into the pose. 
-
 <param ve-graphic 
        label="ONENESS" 
        description="artist's visualization" 
