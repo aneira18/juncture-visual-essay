@@ -77,6 +77,7 @@ There is a vast multitude of purposes for meditation.  Meditation allows one to 
        description="artist's visualization" 
        license="public domain" 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/dharana.JPG">
+       
 There is also a vast multitude of meditation methods.  Some of these include dharana, dhyana, and samadhi.  Dharana, dhyana, and samadhi are consecutive.  Dharana involves directing the focus to an object, dhyana involves fixed, sustained focus and concentration on the object, and samadhi involves complete mental absoprtion into the object where there is no differentiation between mind and object.  
 <param ve-graphic 
        label="ONENESS" 
