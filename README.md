@@ -83,7 +83,7 @@ There is also a vast multitude of meditation methods.  Some of these include dha
        label="ONENESS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/samadhi.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/samadhii.JPG">
 
 # AYURVEDA
 Ayurveda is an ancient Indian medicine and lifestyle doctrine.  According to ayurveda, there is three doshas, or body types ruled by the elements.  
