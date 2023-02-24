@@ -71,13 +71,17 @@ Pranyama is breathwork which manipulates the flow of prana throughout the body. 
        url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
 
 # MEDITATION
-There is a vast multitude of purposes for meditation.  Meditation allows one to quiet the swirling thoughts, limitations, and constructs of the mind in order to tap into the Atman, or Brahman, or Divine Consciousness of the universe for self-actualization and enlightenment.  Meditation has many mental health and physical health benefits, but its primary purpose is for alignment with the divine and transcending the ego.  By transcending the ego and connecting with the divine, one may achieve the Diving Being Bliss.  Not happiness, or being happy about something, more of an infinite contentment and ecstasy unknown to unenlightened individuals.  This enlightenment can be considered a liberation from the human condition, allowing one to find and live in Bliss through any facet of life or hardship.  There is also a vast multitude of meditation methods.  Some of these include dharana, dhyana, and samadhi.  Dharana, dhyana, and samadhi are consecutive.  Dharana involves directing the focus to an object, dhyana involves fixed, sustained focus and concentration on the object, and samadhi involves complete mental absoprtion into the object where there is no differentiation between mind and object.  
-
 <param ve-graphic 
        label="ONENESS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/WE_ARE_ONE.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/dharana.JPG">
+There is a vast multitude of purposes for meditation.  Meditation allows one to quiet the swirling thoughts, limitations, and constructs of the mind in order to tap into the Atman, or Brahman, or Divine Consciousness of the universe for self-actualization and enlightenment.  Meditation has many mental health and physical health benefits, but its primary purpose is for alignment with the divine and transcending the ego.  By transcending the ego and connecting with the divine, one may achieve the Diving Being Bliss.  Not happiness, or being happy about something, more of an infinite contentment and ecstasy unknown to unenlightened individuals.  This enlightenment can be considered a liberation from the human condition, allowing one to find and live in Bliss through any facet of life or hardship.  There is also a vast multitude of meditation methods.  Some of these include dharana, dhyana, and samadhi.  Dharana, dhyana, and samadhi are consecutive.  Dharana involves directing the focus to an object, dhyana involves fixed, sustained focus and concentration on the object, and samadhi involves complete mental absoprtion into the object where there is no differentiation between mind and object.  
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/samadhi.JPG">
 
 # AYURVEDA
 Ayurveda is an ancient Indian medicine and lifestyle doctrine.  According to ayurveda, there is three doshas, or body types ruled by the elements.  
