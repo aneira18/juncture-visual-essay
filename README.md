@@ -61,7 +61,7 @@ The body is your temple and your vehicle in which to navigate this universe.  It
        label="THE SUBTLE BODY" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/THESUBTLEBODY.jpg">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/thebody.JPG">
 
 # ASANA
 Asana is the flow of yoga postures from one to the other and can refer to each posture indiviudally.  Some examples of asanas would be downward dog (svanasana), child's pose (balasana), lotus pose (padmasana), or the corpse pose (shavasana).  These poses are used to manipulate energy throughout the body and may bring about change.  It is the divine alignment of the body.  For example, when you sit up straight, you instantly feel more confident and awake.  Asana may help the flow of prana throughout the body which may remove energetic blockages.  
