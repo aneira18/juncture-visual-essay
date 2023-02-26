@@ -16,10 +16,11 @@
 <param ve-entity eid="Q132325"> <!-- Ayurveda -->
 
 # YOGA 
+Practiced by over 300 million people, yoga is the discipline through which one may experience the transcendence of the physical into the boundless Reality.  The word "yoga" comes from the Sanskrit "yuj" meaning "union".  This union refers to the uniting of body, mind, and spirit and also the union of experiencing everything in the universe as part of one's self, the one and only Self.  Yoga is a holistic system for self-transformation on every plane, whether that be physical or nonphysical, that improves health, mental health and deepens spiritual belief.   
 
 ## Map
 
-Hinduism and yoga originated in ancient India. 
+Yoga originated in ancient India.  The earliest evidence of yoga lies with the Indus-Sarasvati civilization in Northern India almost 5,000 years ago, but many claim that yoga was developed even earlier.  
 <param ve-map center="Q668" zoom="5" prefer-geojson>
 
 # THE UPANISHADS
@@ -138,4 +139,5 @@ All images are mine.
 *The Yoga of Light: Hatha Yoga Padipika, India's Classical Handbook by Hans-Ulrich Rieker
 *https://officeyoga.com/the-eight-limbs-of-yoga-dharana-dhyana-samadhi/
 *https://theyogainstitute.org/ujjayi-pranayama/
+*https://www.livescience.com/when-did-yoga-originate
 
