@@ -134,10 +134,19 @@ Ayurveda also consists of a specific daily routine.  Ayurvedic practitioners sta
 
 # References
 All images are mine.
+
 *The Upanishads by Shyam N. Shukla
+
 *Tantra: The Path of Ecstasy by Georg Feuerstein
+
 *The Yoga of Light: Hatha Yoga Padipika, India's Classical Handbook by Hans-Ulrich Rieker
+
 *https://officeyoga.com/the-eight-limbs-of-yoga-dharana-dhyana-samadhi/
+
 *https://theyogainstitute.org/ujjayi-pranayama/
+
 *https://www.livescience.com/when-did-yoga-originate
+
+*https://isha.sadhguru.org/yoga/
+
 
