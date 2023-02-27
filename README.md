@@ -17,7 +17,12 @@
 
 # YOGA 
 Practiced by over 300 million people, yoga is the discipline through which one may experience the transcendence of the physical into the boundless Reality.  The word "yoga" comes from the Sanskrit "yuj" meaning "union".  This union refers to the uniting of body, mind, and spirit and also the union of experiencing everything in the universe as part of one's self, the one and only Self.  Yoga is a holistic system for self-transformation on every plane, whether that be physical or nonphysical, that improves health, mental health and deepens spiritual belief.   
-
+<param ve-graphic 
+       label="ONENESS" 
+       description="artist's visualization" 
+       license="public domain" 
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/om.JPG">
+       
 ## Map
 
 Yoga originated in ancient India.  The earliest evidence of yoga lies with the Indus-Sarasvati civilization in Northern India almost 5,000 years ago, but many claim that yoga was developed even earlier.  
@@ -29,7 +34,7 @@ Yoga originated in ancient India.  The earliest evidence of yoga lies with the I
        label="ONENESS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/upanishads.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/best%20eye.jpg">
 
 # PURPOSE
 The purpose of yoga is not for inner peace, physical exercise, or flexiblity.  It is to elevate your consciousness in order to become one with the divine, or Higher Self, and to break the cycle of Samsara, or cyclic existence.  The history of humanity can be broken down into four yugas, or stages of human existence, which repeat cyclically.  In the first yuga, or Satya yuga, humanity is full of virture, love, purity, and devotion.  In the second yuga, or Treta yuga, there is a decline in these values and in the condition of the world.  In the third yuga, or Dvapara yuga, there is another decline.  Lastly, in the fourth yuga or Kali yuga, there is another decline.  Humanity is in its lowest state, living in the ego rather than living in the soul.  There is wide-scale suffering and confusion, with people chasing temporary pleasures rather than everlasting bliss.  This is the yuga we are living in currently.
@@ -46,7 +51,7 @@ However, the cycle of the four yugas is not the cycle of Samsara.  Samsara is th
        label="ONENESS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/upanishads.JPG">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/best%20eye.jpg">
        
 # ONENESS
 Within everyone is the eternal soul of the ultimate God, or Higher Consciousness.  This is called the Atman, which is one with the larger Brahman.  Through yoga and meditation, one may tap into this to attain turiya, or a complete merging with the Divine Consciousness during which one loses all sense of ego.  The specific personality and sense of self in each person is called the Jivatman.  Turiya involves loss of the sense of Jivatman.  You are Brahman, and Brahman is you.  You are everything and everything is you.  There is no differentiation between you and the universe, because they are synonymous.  Your soul moves with the waves of the ocean, the beams of moonlight, and the shifting sands of the desert.  Realization of this leads to infinite bliss.  However, bliss is not an emotion, but a state of being.  You are not blissful about something, but rather existing in bliss.  Through yoga and meditation, one may reach this state of bliss while still confined by the body. 
@@ -130,7 +135,7 @@ Ayurveda also consists of a specific daily routine.  Ayurvedic practitioners sta
        label="THE THREE DOSHAS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurrveda.jpg">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/AYURVEDA%202.jpg">
 
 # References
 All images are mine.
