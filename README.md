@@ -106,7 +106,7 @@ Ayurveda is an ancient Indian medicine and lifestyle doctrine.  According to ayu
        label="THE THREE DOSHAS" 
        description="artist's visualization" 
        license="public domain" 
-       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/ayurrveda.jpg">
+       url="https://raw.githubusercontent.com/aneira18/juncture-visual-essay/main/kapha.JPG">
        
 The first being vata which is ruled by wind and is characterized by a petite frame and resting weight.  
 <param ve-graphic 
